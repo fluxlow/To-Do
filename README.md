@@ -5,7 +5,9 @@ To-Do Project Week Site
 
 # First you need to download few things:
   Install ToDo folder in zip with all files from github;
+  
   Unzip this folder into any path you want;
+  
   Install python manager (latest version);
   flask framework and Flask-SQLAlchemy from python(to do this after you install python manager, you need to write in terminal: pip install Flask, pip install Flask-SQLAlchemy);
 
